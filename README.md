@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Advanced React, Redux, and JavaScript**
 - 💡 Passionate about **UI development & building user-friendly web apps**
 - 🔗 All my projects are available [here](https://github.com/KSomanath-s?tab=repositories)
-- 📫 Reach me at **youremail@example.com**
+- 📫 Reach me at **somanath.kakade5@gmail.com**
 
 ---
 
@@ -24,9 +24,7 @@
 ---
 
 ### 📌 Featured Projects
-- 📝 [Todo App](https://github.com/KSomanath-s/todo-react) — Simple and clean React Todo App
-- 📊 [Analytics Dashboard](https://github.com/KSomanath-s/analytics-dashboard) — Dashboard with charts and tables
-- 🎨 [Portfolio Website](https://github.com/KSomanath-s/portfolio) — Personal portfolio built with React & Tailwind CSS
+
 
 ---
 
