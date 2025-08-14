@@ -28,17 +28,12 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KSomanath-s&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KSomanath-s&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
 
 ---
 
 ### 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
+
 
 ---
 
